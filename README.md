@@ -1,4 +1,11 @@
-# Typescript React ESLint Cypress Starter with Create React App
+# Frontend Starter App
+
+- Create React App
+- Typescript
+- ESLint
+- Cypress and Cypress Testing Library
+
+## How I set up the Starter
 
 ```shell
 yarn create react-app typescript-react-eslint-starter --template typescript
@@ -40,7 +47,7 @@ yarn journey
 
 Helpful article: [Setting ESLint on a React Typescript project](https://andrebnassis.medium.com/setting-eslint-on-a-react-typescript-project-2021-1190a43ffba)
 
-The article is slightly outdated. I didn't have to fix all the errors listed in the article. The Typescript template for Create React App or the ESLint defaults 
+The article is slightly outdated. I didn't have to fix all the errors listed in the article.
 
 # Getting Started with Create React App
 
