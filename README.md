@@ -2,7 +2,7 @@
 
 - Create React App
 - Typescript
-- ESLint
+- ESLint with Airbnb style guide
 - Cypress and Cypress Testing Library
 
 ## How I set up the Starter
