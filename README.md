@@ -30,8 +30,9 @@ For ESLint config select:
 npx eslint src/*
 npx eslint src/* --fix
 npx eslint src/* --quiet  # ignore warnings
-yarn add eslint-import-resolver-typescript --dev
-yarn add cypress --dev
+yarn add --dev eslint-import-resolver-typescript
+yarn add --dev cypress
+yarn add --dev @testing-library/cypress
 yarn journey
 ```
 
