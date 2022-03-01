@@ -24,7 +24,7 @@
     "cypress:open": "cypress open",
     "cypress:test": "cypress run",
     "journey": "yarn cypress:test",
-    "open": "yarn cypress:run"
+    "open": "yarn cypress:open"
   },
   "browserslist": {
     "production": [
@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/cypress": "^8.0.2",
     "@typescript-eslint/eslint-plugin": "^5.11.0",
     "@typescript-eslint/parser": "^5.11.0",
     "cypress": "^9.4.1",
