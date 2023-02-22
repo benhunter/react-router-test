@@ -1,3 +1,15 @@
+# Testing React Router
+
+1. Separate Router from the Switch
+2. Mock the Router
+
+# React Router Install
+
+`yarn add react-router-dom@6`
+
+
+---
+
 # Frontend Starter App
 
 - Create React App
